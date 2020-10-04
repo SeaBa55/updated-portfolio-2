@@ -169,6 +169,8 @@ portfolio_sa_v3.8 - Styled About me section (index.html lines 97, 99, 101-113)(s
 
 portfolio_sa_v3.9 - Added mailto/tel to my email and phone number in the contact info pop-over (index.html lines 174, 194-207)(portfolio.html lines 254, 274-287)(contact.html lines 197, 217-230).
 
+portfolio_sa_v4.0 - Updated portfolio section to reflect the current projects pinned on my github (portfolio.js lines 109, 122, 117, 145, 148, 153, 205, 208, 213).
+
 ## Wish List
 
 Modal pop-ups to enlarge portfolio gifs for better viewing on desktop devices.
