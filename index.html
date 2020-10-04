@@ -167,11 +167,11 @@
         <!-- Git Hub Profile Link -->
         <a class="foot-link" href="https://github.com/SeaBa55"><i class="fab fa-github fa-2x"></i></a>
         <!-- Site version info -->
-        <span class="my-foot-text bangers-font-small">© 2020 v 3.8 - updated: 08/05</span>
+        <span class="my-foot-text bangers-font-small">© 2020 v 3.9 - updated: 10/04</span>
         <!-- LinkedIn Profile Link -->
         <a class="foot-link" href="https://www.linkedin.com/in/sebastian-arrazola-b92571b8/"><i class="fab fa-linkedin fa-2x"></i></a>
         <!-- Email info popover -->
-        <div class="foot-link"  data-container="body" data-toggle="popover" data-placement="top" data-content="sebastianarrazola@gmail.com"><i class="far fa-envelope fa-2x"></i></div>
+        <div class="foot-link"  data-container="body" data-toggle="popover" data-placement="top"><i class="far fa-envelope fa-2x"></i></div>
       </div>
     </footer>
 
@@ -190,7 +190,20 @@
 
 <!-- Pop over script -->
 <script>
-  $(document).ready(function(){
-    $('[data-toggle="popover"]').popover()
+ 
+ $(document).ready(function(){
+  $('[data-toggle="popover"]').popover({
+    html: true,
+    title: 
+      `<h5 class="custom-title">
+        <i class="fa fa-info-circle"></i> Contact Info
+      </h5>`,
+    content: 
+      `<p>
+        Email: <a href="mailto:sebastianarrazola@gmail.com">sebastianarrazola@gmail.com</a>
+        Phone: <a href="tel:+13139380626">+1 (313) 938-0626</a>
+      </p>`
   });
+});
+
 </script>

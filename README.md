@@ -167,6 +167,8 @@ portfolio_sa_v3.7 - Added showcase projects to my portfolio section, including t
 
 portfolio_sa_v3.8 - Styled About me section (index.html lines 97, 99, 101-113)(style.css lines 52-56, 77-102).
 
+portfolio_sa_v3.9 - Added mailto/tel to my email and phone number in the contact info pop-over (index.html lines 174, 194-207)(portfolio.html lines 254, 274-287)(contact.html lines 197, 217-230).
+
 ## Wish List
 
 Modal pop-ups to enlarge portfolio gifs for better viewing on desktop devices.
