@@ -171,6 +171,8 @@ portfolio_sa_v3.9 - Added mailto/tel to my email and phone number in the contact
 
 portfolio_sa_v4.0 - Updated portfolio section to reflect the current projects pinned on my github (portfolio.js lines 109, 122, 117, 145, 148, 153, 205, 208, 213).
 
+portfolio_sa_v4.1 - Updated resume.
+
 ## Wish List
 
 Modal pop-ups to enlarge portfolio gifs for better viewing on desktop devices.
